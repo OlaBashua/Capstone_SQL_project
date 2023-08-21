@@ -1,4 +1,4 @@
- <center><font color="blue">  # **Capstone Project for Intellipaat SQL Certification**
+  # **Capstone Project for Intellipaat SQL Certification**
 
 <font color="blue">## **Project Aim and tasks**
 The project involved analyzing a large dataset to derive insights about customers, sales, profits, marketing expenses, and other factors. The dataset consisted of three key tables: Fact.csv file, Product.csv file, and Location.csv file. 
