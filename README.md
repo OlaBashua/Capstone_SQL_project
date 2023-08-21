@@ -9,7 +9,9 @@ The **primary** tasks involved working extensively with various SQL queries, fun
 to successfully analyze information about states, product types, marketing spending, sales, profits, expenses, and more. The project aimed to extract meaningful insights from the data to support decision-making.
 
 <font color="blue">## **Overview of Entity Relationship Diagram(ERD)**
-![Project ERD]("tinywow_SQL_ERD_32243206.jpg")
+
+![Project ERD]https://github.com/OlaBashua/Capstone_SQL_project.git/main/images/tinywow_SQL_ERD_32243206.jpg)
+
 
 
 <font color="blue">## **Technical Aspect utilized**
