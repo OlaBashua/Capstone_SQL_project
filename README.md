@@ -1,7 +1,5 @@
-<center># Capstone_SQL_project
-**SQL capstone project**
 
-<font color="blue">##  **Capstone Project for Intellipaat SQL Certification**
+## <span style="color:blue">Capstone Project for Intellipaat SQL Certification</span>
 
 <font color="blue">## **Project Aim and tasks**
 The project involved analyzing a large dataset to derive insights about customers, sales, profits, marketing expenses, and other factors. The dataset consisted of three key tables: Fact.csv file, Product.csv file, and Location.csv file. 
@@ -10,7 +8,8 @@ to successfully analyze information about states, product types, marketing spend
 
 <font color="blue">## **Overview of Entity Relationship Diagram(ERD)**
 
-![Project ERD]https://github.com/OlaBashua/Capstone_SQL_project.git/main/images/tinywow_SQL_ERD_32243206.jpg)
+
+![Project ERD](ERD/tinywow_SQL_ERD_32243206.jpg)
 
 
 
@@ -19,7 +18,8 @@ I effectively applied a comprehensive range of technical skills(Data Handling, Q
 set operations, aggregate and window functions, and more, to successfully address each task in the project. This allowed me to derive meaningful insights from the dataset, showcasing my proficiency in database management and SQL analysis.
 
 <font color="blue">## **Conclusion**
-- The project provided me with valuable skill sets which involved:
+
+**The project provided me with valuable skill sets which involved:**
 - Proficient use of SQL for querying and manipulating databases.
 - Creation of database connections between MySQL and Jupyter Notebook.
 - Enhanced understanding of working with large datasets.
